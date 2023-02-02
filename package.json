@@ -34,9 +34,6 @@
         "English",
         "Spanish"
     ],
-    "dependencies": {
-        "jsdocs": "^1.0.0"
-    },
     "devDependencies": {
         "@babel/cli": "^7.4.4",
         "@babel/core": "^7.4.4",
